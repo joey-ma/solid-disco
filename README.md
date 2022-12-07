@@ -1,5 +1,5 @@
 # solid-disco
-Exploring the world of C++. #cpp
+Exploring the C++ programming language. #cpp
 
 ## Opinions
 - Simon Ayers: *putting 'C/C++' on your CV may give an impression that you know C, and therefore, you know C++.*
