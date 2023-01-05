@@ -12,7 +12,7 @@ Exploring the C++ programming language. #cpp
   - in computer vision
   - in legacy code, 
   - in mission critical jobs [link](https://qr.ae/pr8t17)
-  
+
 ## Topics to Know
 - Less important
   - Object Oriented Programming (at least conversant)
